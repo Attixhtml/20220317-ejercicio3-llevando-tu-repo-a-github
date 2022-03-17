@@ -1,4 +1,8 @@
 Ana
 Penelope
 Maria
+<<<<<<< HEAD
 novata gelabert
+=======
+mariana
+>>>>>>> test2
